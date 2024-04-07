@@ -1,6 +1,6 @@
-package org.example.JavaExample.ServiceProviderSpring2;
+package org.example.javaexample.ServiceProviderSpring2;
 
-import org.example.JavaExample.serviceProviderInterfaceSpring.spi.SpringLogger;
+import org.example.javaexample.serviceProviderInterfaceSpring.spi.SpringLogger;
 
 public class SpringLoggerImpl2
     implements SpringLogger {

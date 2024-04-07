@@ -1,6 +1,6 @@
-package org.example.JavaExample.ServiceProviderDubbo.spi;
+package org.example.javaexample.ServiceProviderDubbo.spi;
 
-import org.example.JavaExample.ServiceProviderInterfaceDubbo.spi.Logger;
+import org.example.javaexample.ServiceProviderInterfaceDubbo.spi.Logger;
 
 
 public class SecondLoggerServiceImpl implements Logger {

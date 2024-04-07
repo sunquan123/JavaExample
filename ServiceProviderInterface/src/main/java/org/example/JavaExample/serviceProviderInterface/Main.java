@@ -1,6 +1,6 @@
-package org.example.JavaExample.serviceProviderInterface;
+package org.example.javaexample.serviceProviderInterface;
 
-import org.example.JavaExample.serviceProviderInterface.spi.LoggerService;
+import org.example.javaexample.serviceProviderInterface.spi.LoggerService;
 
 public class Main {
   public static void main(String[] args) {

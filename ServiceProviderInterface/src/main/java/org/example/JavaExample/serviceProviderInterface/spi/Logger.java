@@ -1,4 +1,4 @@
-package org.example.JavaExample.serviceProviderInterface.spi;
+package org.example.javaexample.serviceProviderInterface.spi;
 
 /**
  * 服务提供者接口的接口定义

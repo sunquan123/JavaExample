@@ -1,4 +1,4 @@
-package org.example.JavaExample.ServiceProviderInterfaceDubbo.spi;
+package org.example.javaexample.ServiceProviderInterfaceDubbo.spi;
 
 import org.apache.dubbo.common.extension.SPI;
 

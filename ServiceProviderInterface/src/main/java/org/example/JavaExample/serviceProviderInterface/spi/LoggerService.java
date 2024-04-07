@@ -1,4 +1,4 @@
-package org.example.JavaExample.serviceProviderInterface.spi;
+package org.example.javaexample.serviceProviderInterface.spi;
 
 import java.util.ArrayList;
 import java.util.List;

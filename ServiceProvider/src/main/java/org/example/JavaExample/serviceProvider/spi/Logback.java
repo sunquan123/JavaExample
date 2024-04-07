@@ -1,6 +1,6 @@
-package org.example.JavaExample.serviceProvider.spi;
+package org.example.javaexample.serviceProvider.spi;
 
-import org.example.JavaExample.serviceProviderInterface.spi.Logger;
+import org.example.javaexample.serviceProviderInterface.spi.Logger;
 
 public class Logback implements Logger {
   @Override
