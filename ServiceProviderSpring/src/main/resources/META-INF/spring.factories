@@ -1,1 +1,1 @@
-org.example.JavaExample.serviceProviderInterfaceSpring.spi.SpringLogger=org.example.JavaExample.ServiceProviderSpring.SpringLoggerImpl
+org.example.javaexample.serviceProviderInterfaceSpring.spi.SpringLogger=org.example.javaexample.ServiceProviderSpring.SpringLoggerImpl

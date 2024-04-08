@@ -1,2 +1,0 @@
-First = spi.org.example.JavaExample.ServiceProviderDubbo.FirstLoggerServiceImpl
-Second = spi.org.example.JavaExample.ServiceProviderDubbo.SecondLoggerServiceImpl

@@ -1,7 +1,7 @@
 package org.example.javaexample.dubbospi;
 
 import org.apache.dubbo.common.extension.ExtensionLoader;
-import org.example.JavaExample.ServiceProviderInterfaceDubbo.spi.Logger;
+import org.example.javaexample.ServiceProviderInterfaceDubbo.spi.Logger;
 
 public class TestDubboSpi {
   public static void main(String[] args) {

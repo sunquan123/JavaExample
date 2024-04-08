@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="609dadf5-75ff-47e1-87f5-e6473f1c88c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ServiceProvider/src/main/java/org/example/javaexample/serviceProvider/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProvider/src/main/java/org/example/javaexample/serviceProvider/spi/Logback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/java/org/example/javaexample/ServiceProviderDubbo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/java/org/example/javaexample/ServiceProviderDubbo/spi/FirstLoggerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/java/org/example/javaexample/ServiceProviderDubbo/spi/SecondLoggerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderInterface/src/main/java/org/example/javaexample/serviceProviderInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderInterface/src/main/java/org/example/javaexample/serviceProviderInterface/spi/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderInterface/src/main/java/org/example/javaexample/serviceProviderInterface/spi/LoggerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderInterfaceDubbo/src/main/java/org/example/javaexample/ServiceProviderInterfaceDubbo/spi/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderInterfaceSpring/src/main/java/org/example/javaexample/serviceProviderInterfaceSpring/spi/SpringLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderSpring/src/main/java/org/example/javaexample/ServiceProviderSpring/SpringLoggerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceProviderSpring2/src/main/java/org/example/javaexample/ServiceProviderSpring2/SpringLoggerImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceProvider/src/main/java/org/example/JavaExample/serviceProvider/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceProvider/src/main/java/org/example/JavaExample/serviceProvider/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceProvider/src/main/resources/META-INF/services/org.example.JavaExample.serviceProviderInterface.spi.Logger" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceProvider/src/main/resources/META-INF/services/org.example.javaexample.serviceProviderInterface.spi.Logger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/java/org/example/JavaExample/ServiceProviderDubbo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/java/org/example/JavaExample/ServiceProviderDubbo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/resources/META-INF/dubbo/org.example.JavaWorld.ServiceProviderInterfaceDubbo.spi.Logger" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceProviderDubbo/src/main/resources/META-INF/dubbo/org.example.javaexample.ServiceProviderInterfaceDubbo.spi.Logger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceProviderSpring/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceProviderSpring/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceProviderSpring2/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceProviderSpring2/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/dubbospi/TestDubboSpi.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/dubbospi/TestDubboSpi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/spi/TestSpi.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/spi/TestSpi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/springspi/TestSpringSpi.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/springspi/TestSpringSpi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/stringpool/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest/src/main/java/org/example/javaexample/stringpool/StringTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ehuyVR2Lf8iUBLquEP4dCEKb7z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/software/jdk21",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.VolatileTest">
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Test2" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.javaexample.proxy.TestProxy" />
+      <module name="javaTest" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.javaexample.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.javaexample.volatiletest.VolatileTest" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.javaexample.volatiletest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSugar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.javaexample.sugar.testSugar" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.javaexample.sugar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testZeroCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.javaexample.zerocopy.testZeroCopy" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.javaexample.zerocopy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.VolatileTest" />
+      <item itemvalue="Application.testSugar" />
+      <item itemvalue="Application.testZeroCopy" />
+      <item itemvalue="Application.TestProxy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VolatileTest" />
+        <item itemvalue="Application.testZeroCopy" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.testSugar" />
+        <item itemvalue="Application.TestProxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609dadf5-75ff-47e1-87f5-e6473f1c88c7" name="Changes" comment="" />
+      <created>1712369386828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712369386828</updated>
+      <workItem from="1712369388102" duration="8023000" />
+      <workItem from="1712536873670" duration="2076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

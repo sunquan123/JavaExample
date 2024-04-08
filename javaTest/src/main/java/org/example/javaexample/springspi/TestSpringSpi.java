@@ -2,7 +2,7 @@ package org.example.javaexample.springspi;
 
 import java.util.Iterator;
 import java.util.List;
-import org.example.JavaExample.serviceProviderInterfaceSpring.spi.SpringLogger;
+import org.example.javaexample.serviceProviderInterfaceSpring.spi.SpringLogger;
 import org.springframework.core.io.support.SpringFactoriesLoader;
 
 public class TestSpringSpi {

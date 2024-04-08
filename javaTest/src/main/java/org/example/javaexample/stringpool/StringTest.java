@@ -2,7 +2,7 @@ package org.example.javaexample.stringpool;
 
 import java.io.File;
 
-import static java.lang.StringTemplate.STR;
+//import static java.lang.StringTemplate.STR;
 
 public class StringTest {
   public static void main(String[] args) {
@@ -29,16 +29,16 @@ public class StringTest {
     // jdk21 字符串变量替换测试
     String filePath = "D:\\aa\\aa.txt";
     File file = new File(filePath);
-    String msg = STR."The file \{filePath} \{file.exists()? "does" : "does not"} exist";
-    // jdk21 字符串模版测试
-    System.out.println(msg);
-    String name="abc";
-    String html=STR."""
-        <html>
-          <title>welcome to my page</title>
-          <body>\{name}</body>
-        </html>""";
-    System.out.println(html);
+//    String msg = STR."The file \{filePath} \{file.exists()? "does" : "does not"} exist";
+//    // jdk21 字符串模版测试
+//    System.out.println(msg);
+//    String name="abc";
+//    String html=STR."""
+//        <html>
+//          <title>welcome to my page</title>
+//          <body>\{name}</body>
+//        </html>""";
+//    System.out.println(html);
     //Thread.startVirtualThread(new SimpleThread());
   }
 }
