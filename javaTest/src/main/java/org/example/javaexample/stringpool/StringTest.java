@@ -1,6 +1,10 @@
 package org.example.javaexample.stringpool;
 
 import java.io.File;
+import java.nio.ByteBuffer;
+import java.nio.CharBuffer;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 
 //import static java.lang.StringTemplate.STR;
 
@@ -40,5 +44,13 @@ public class StringTest {
 //        </html>""";
 //    System.out.println(html);
     //Thread.startVirtualThread(new SimpleThread());
+  }
+
+  public static char[] getChars(byte[] bytes) {
+    Charset cs = StandardCharsets.UTF_8;
+    ByteBuffer bb = ByteBuffer.allocate(bytes.length);
+    bb.put(bytes).flip();
+    CharBuffer cb = cs.decode(bb);
+    return cb.array();
   }
 }
